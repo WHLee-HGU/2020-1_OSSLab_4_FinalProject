@@ -1,4 +1,4 @@
-# 2020-1 OSSLab, Final Project List (Section 3)
+# 2020-1 OSSLab, Final Project List (Section 4)
 
 * https://github.com/kimtaehwan-handong/OSS_Final-Project_21300210
 * https://github.com/hohoU9/OSSLab_Final_Project
