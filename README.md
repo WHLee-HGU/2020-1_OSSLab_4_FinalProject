@@ -27,4 +27,11 @@
 * https://github.com/21600524/OSS_FINAL/
 * https://github.com/EunjunBong/oss_final_project_21500329.git
 
-(last update time: 6/8 1:30pm)
+* https://github.com/21400262/OSSL-4_Project.git
+* https://github.com/21600055/OSS-Final-Projrct.git
+* https://github.com/Jin33-O/Final_project
+* https://github.com/corea2244/OSS_final_project.git
+* https://github.com/srhapsody/finalProject.git
+* https://github.com/shpark99/OSS_final_project.git
+
+(last update time: 6/14)
