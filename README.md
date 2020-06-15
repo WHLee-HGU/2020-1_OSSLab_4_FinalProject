@@ -1,6 +1,6 @@
 # 2020-1 OSSLab, Final Project List (Section 4)
 
-1. https://github.com/kimtaehwan-handong/OSS_Final-Project_21300210
+1. https://github.com/EunjunBong/oss_final_project_21500329.git
 2. https://github.com/hohoU9/OSSLab_Final_Project
 3. https://github.com/youngjae0603/final_project
 4. https://github.com/goodtaeeun/OSS_final_project
@@ -25,7 +25,7 @@
 23. https://github.com/gksksla/-OSSFinal
 24. https://github.com/An-Seonghyeon/OSS_Final_Project.git
 25. https://github.com/21600524/OSS_FINAL/
-26. https://github.com/EunjunBong/oss_final_project_21500329.git
+26. https://github.com/kimtaehwan-handong/OSS_Final-Project_21300210
 
 27. https://github.com/21400262/OSSL-4_Project.git
 28. https://github.com/21600055/OSS-Final-Projrct.git
