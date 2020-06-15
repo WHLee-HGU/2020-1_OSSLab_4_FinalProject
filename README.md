@@ -9,7 +9,7 @@
 7. https://github.com/kangjh0408/OSS2020-1_Final_Project
 8. https://github.com/yesleekm/HGU_OSS_final
 9. https://github.com/KwangyoungHan/OSS_Final
-10. https://github.com/sihoon197/OSS_project
+10. https://github.com/dddd3495/raspberry
 11. https://github.com/Ahn-Ssu/OSSL_Final
 12. https://github.com/yuseunghyeon/CCTV-can-talk/blob/master/README.md
 13. https://github.com/jyw3927/OSSLab_Final_21600621.git
@@ -17,7 +17,7 @@
 15. https://github.com/JHBaek-HGU/Final
 16. https://github.com/Soominll/OSS_final
 17. https://github.com/ch00nghyeon/OSSFinalProject.git
-18. https://github.com/dddd3495/raspberry
+18. https://github.com/sihoon197/OSS_project
 19. https://github.com/SeoYeonJu4382/OSS_Final_project.git
 20. https://github.com/wjdgus99/oss_finalproject
 21. https://github.com/Chohyoeun/OSS_FinalProject
